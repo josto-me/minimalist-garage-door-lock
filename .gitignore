@@ -1,0 +1,18 @@
+Debug/
+Release/
+__vm/
+Visual Micro/
+*.atsuo
+*.b#*
+*.s#*
+*.bak
+Thumbs.db
+~$*
+*.o
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+.vs/
