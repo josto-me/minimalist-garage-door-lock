@@ -1,6 +1,6 @@
 # Minimalist Garage Door Lock
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22988745-blue.svg)](https://doi.org/10.5281/zenodo.22988745) [![Build](https://github.com/josto-me/minimalist-garage-door-lock/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/minimalist-garage-door-lock/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22988744-blue.svg)](https://doi.org/10.5281/zenodo.22988744) [![Build](https://github.com/josto-me/minimalist-garage-door-lock/actions/workflows/build.yml/badge.svg)](https://github.com/josto-me/minimalist-garage-door-lock/actions/workflows/build.yml) [![Code: Apache-2.0](https://img.shields.io/badge/code-Apache--2.0-blue.svg)](LICENSE) [![Docs: CC BY 4.0](https://img.shields.io/badge/docs-CC%20BY%204.0-lightgrey.svg)](LICENSE-CC-BY-4.0.txt) [![Cite](https://img.shields.io/badge/cite-CITATION.cff-green.svg)](CITATION.cff)
 
 Minimalistisches Garagentor-Codeschloss: ein Taster, eine LED, eine Metallplatte.
 
